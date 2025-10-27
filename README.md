@@ -15,9 +15,6 @@ It includes LAN setup, IP addressing, and security configurations for small busi
 - Cisco Packet Tracer  
 - Networking concepts (TCP/IP, Ethernet, VLANs)
 
-### 📷 Screenshots
-(Add screenshots of your topology or configurations if you have them)
-
 ### 👤 Author
 **Daf** — Software Engineering Student & Network Enthusiast
 
